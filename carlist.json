@@ -1,0 +1,31 @@
+{"carlist" : [
+    {
+        "name": "BMW 7 Series Sedan",
+        "category": "Budget",
+        "people": 4,
+        "suitcases": 1,
+        "comfort": "Low",
+        "image": "images/car1.png",
+        "supplement": 0.00
+    },
+
+    {
+        "name": "Tesla Model X",
+        "category": "Standard",
+        "people": 5,
+        "suitcases": 3,
+        "comfort": "Medium",
+        "image": "images/car2.png",
+        "supplement": 60.00
+    },
+
+    {
+        "name": "Mercedes-Benz EQC",
+        "category": "Standard",
+        "people": 7,
+        "suitcases": 4,
+        "comfort": "High",
+        "image": "images/car3.png",
+        "supplement": 105.00
+    }
+]}
